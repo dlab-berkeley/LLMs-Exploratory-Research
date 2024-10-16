@@ -1,56 +1,54 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab LLMs for Exploratory Research Workshop
 
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
 [![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. 
+This repository contains the materials for D-Lab LLMs for Exploratory Research workshop. 
 
 ### Prerequisites
-We recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
+
+No prior experience in using LLMs is necessary for this workshop.
 
 Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
+In this workshop, we assess the different uses of LLMs in exploratory research and discusses ways to evaluate strengths and weaknesses of LLMs in various phases of exploratory research. First, we’ll cover some of the different types of LLMs that can be useful for research. Then, we’ll explore the use cases of LLMs specifically for exploratory research. As we go along, we will discuss the strengths and limitations of using LLMs for research.  
 
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
+- Use LLMs for tasks related to exploratory research.
+- Compare and contrast outputs from different LLMs.
 
 This workshop does not cover the following:
 
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
+- How to use LLMs for coding. These are covered in [Copilot Fundamentals](https://github.com/dlab-berkeley/Copilot-Fundamentals).
+- Introduction to GPT models. These are covered in [Python GPT Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals?search=1).
 
 
 ## Installation Instructions
 
-We will use [RStudio/Python] to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
+RStudio is a software commonly used by R practitioners to develop code in R. We will use RStudio to go through the workshop materials, which requires the installation of both the R language and the RStudio software. If you would like to run R on your own computer, complete the following steps prior to the workshop:
 
-1. This step(s) details software to download, with a link.
-2. Download these workshop materials:
-    * Click the green "Code" button in the top right of the repository information.
-    * Click "Download Zip".
-    * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
+1. [Download R](https://cloud.r-project.org/): Follow the links according to the operating system you are running. You will first need to click on a link corresponding to your operating system, and then an additional link to select a specific version of R. Download the package, and install R onto your computer. You should install the most recent version (at least version 4.1).
+   If you are using a Mac, click "Download R for macOS" and then select the right version of R. You will need to select the version corresponding to your specific version of macOS, as well as whether you have an Intel or Apple Silicon Mac.
+   If you are using Windows, click "Download R for Windows", then click "base", and click the download link.
+   If you are using Linux, click on the link corresponding to your Linux distribution, and then follow the instructions.
+2. [Download RStudio](https://rstudio.com/products/rstudio/download/#download): Install RStudio Desktop. This should be free. Do this after you have already installed R. The D-Lab strongly recommends an RStudio edition of 2022.02.0+443 "Prairie Trillium" or higher.
+   Some individuals with older operating systems may run into odd issues. If you are running into issues with the installation of RStudio, you may need to install a specific version of RStudio. Please check [this link](https://www.rstudio.com/products/rstudio/older-versions/) if this applies to you.
+3. Download these LLMs for Exploratory Research workshop materials:
+   Click the green "Code" button in the top right of the repository information.
+   Click "Download Zip".
+   Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
+4. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git clone git@github.com:dlab-berkeley/LLMs-Exploratory-Research.git`.
 
-## Is [Language] not Working on Your Computer?
+## Is R not Working on Your Computer?
 
-If you do not have [Language] installed and the materials loaded on your
+If you do not have R installed and the materials loaded on your
 workshop by the time it starts, we *strongly* recommend using the UC Berkeley
 Datahub to run the materials for these lessons. You can access the DataHub by
 clicking the following button:
@@ -63,7 +61,7 @@ No installation is necessary from your end - you only need an internet browser
 and a CalNet ID to log in. By using the DataHub, you can save your work and come
 back to it at any time. When you want to return to your saved work, just go
 straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
+you click on the `LLMs-Exploratory-Research` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
@@ -72,17 +70,9 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 By using this button, however, you cannot save your work.
 
 
-## Run the Code
-
-Now that you have all the required software and materials, you need to run the code:
-
-Provide instructions on running the code, including how to load relevant software (RStudio, Jupyter Notebooks, etc.) and which file to open up. See other repositories for examples.
-
-Additionally, provide instructions on how to run code once it’s open (running Jupyter cells, RMarkdown cells, etc.).
-
 # Additional Resources
 
-Check out the following resources to learn more about [Workshop topics]:
+Check out the following resources to learn more about LLMs:
 
 * [Resource1](LinkToResource1): _Explain Resource 1_
 * [Resource2](LinkToResource2): _Explain Resource 2_
@@ -95,19 +85,13 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
+# Other D-Lab LLM/GPT Workshops
 
-Here are other [Language] workshops offered by the D-Lab:
+Here are other LLM/GPT workshops offered by the D-Lab:
 
-## Basic Competency
-
-**Provide a list of workshops here.**
-
-## Intermediate/Advanced Competency
-
-**Provide a list of workshops here.**
+* [Copilot Fundamentals](https://github.com/dlab-berkeley/Copilot-Fundamentals)
+* [Python GPT Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals?search=1)
 
 # Contributors
 
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+* [Kamya Yadav](https://dlab.berkeley.edu/people/kamya-yadav)
