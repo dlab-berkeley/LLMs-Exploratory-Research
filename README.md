@@ -1,4 +1,4 @@
-# D-Lab LLMs for Exploratory Research Workshop
+# D-Lab LLMs for Exploratory Research in R Workshop
 
 [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
 [![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
