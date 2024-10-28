@@ -1,10 +1,10 @@
 # D-Lab LLMs for Exploratory Research in R Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://github.com/dlab-berkeley/R-LLMs-Exploratory-Research/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&branch=main&urlpath=rstudio%2F)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/R-LLMs-Exploratory-Research/HEAD?urlpath=rstudio)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab LLMs for Exploratory Research workshop. 
+This repository contains the materials for D-Lab LLMs for Exploratory Research in R workshop. 
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ workshop by the time it starts, we *strongly* recommend using the UC Berkeley
 Datahub to run the materials for these lessons. You can access the DataHub by
 clicking the following button:
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://github.com/dlab-berkeley/R-LLMs-Exploratory-Research/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&branch=main&urlpath=rstudio%2F)
 
 The DataHub downloads this repository, along with any necessary packages, and
 allows you to run the materials in an RStudio instance on UC Berkeley's servers.
@@ -65,7 +65,7 @@ you click on the `LLMs-Exploratory-Research` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/R-LLMs-Exploratory-Research/HEAD?urlpath=rstudio)
 
 By using this button, however, you cannot save your work.
 
