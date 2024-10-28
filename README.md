@@ -1,6 +1,6 @@
 # D-Lab LLMs for Exploratory Research in R Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://github.com/dlab-berkeley/R-LLMs-Exploratory-Research/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&branch=main&urlpath=rstudio%2F)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://github.com/dlab-berkeley/R-LLMs-Exploratory-Research/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&urlpath=rstudio%2F)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/R-LLMs-Exploratory-Research/HEAD?urlpath=rstudio)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
