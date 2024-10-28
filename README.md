@@ -70,15 +70,6 @@ If you don't have a Berkeley CalNet ID, you can still run these lessons in the c
 By using this button, however, you cannot save your work.
 
 
-# Additional Resources
-
-Check out the following resources to learn more about LLMs:
-
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
-
-
 # About the UC Berkeley D-Lab
 
 D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
