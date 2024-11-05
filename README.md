@@ -32,28 +32,15 @@ This workshop does not cover the following:
 
 ## Installation Instructions
 
-RStudio is a software commonly used by R practitioners to develop code in R. We will use RStudio to go through the workshop materials, which requires the installation of both the R language and the RStudio software. If you would like to run R on your own computer, complete the following steps prior to the workshop:
+We will be using the following LLM-chatbots during the workshop. You can create accounts for each by following the links: 
 
-1. [Download R](https://cloud.r-project.org/): Follow the links according to the operating system you are running. You will first need to click on a link corresponding to your operating system, and then an additional link to select a specific version of R. Download the package, and install R onto your computer. You should install the most recent version (at least version 4.1).
-   - If you are using a Mac, click "Download R for macOS" and then select the right version of R. You will need to select the version corresponding to your specific version of macOS, as well as whether you have an Intel or Apple Silicon Mac.
-   - If you are using Windows, click "Download R for Windows", then click "base", and click the download link.
-   - If you are using Linux, click on the link corresponding to your Linux distribution, and then follow the instructions.
-2. [Download RStudio](https://rstudio.com/products/rstudio/download/#download): Install RStudio Desktop. This should be free. Do this after you have already installed R. The D-Lab strongly recommends an RStudio edition of 2022.02.0+443 "Prairie Trillium" or higher.
-   - Some individuals with older operating systems may run into odd issues. If you are running into issues with the installation of RStudio, you may need to install a specific version of RStudio. Please check [this link](https://www.rstudio.com/products/rstudio/older-versions/) if this applies to you.
-3. Download these LLMs for Exploratory Research workshop materials:
-   - Click the green "Code" button in the top right of the repository information.
-   - Click "Download Zip".
-   - Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-4. Optional: if you're familiar with `git`, you can instead clone this repository by opening a terminal and entering `git clone git@github.com:dlab-berkeley/LLMs-Exploratory-Research.git`.
+1. [ChatGPT](https://chatgpt.com/)
+2. [Perplexity](https://www.perplexity.ai/) 
+   - You can create a free Perplexity Pro account using your Berkeley email address.
+3. [Phind](https://www.perplexity.ai/)
+4. [Claude.ai](https://claude.ai/new)
 
-## Is R not Working on Your Computer?
-
-If you do not have R installed and the materials loaded on your
-workshop by the time it starts, we *strongly* recommend using the UC Berkeley
-Datahub to run the materials for these lessons. You can access the DataHub by
-clicking the following button:
-
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&urlpath=rstudio%2F)
+You can view the workshop materials on GitHub and download the paper from the repository. You can also view the Markdown file on [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&urlpath=rstudio%2F).
 
 The DataHub downloads this repository, along with any necessary packages, and
 allows you to run the materials in an RStudio instance on UC Berkeley's servers.
