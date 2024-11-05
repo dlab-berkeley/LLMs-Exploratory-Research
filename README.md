@@ -1,14 +1,14 @@
 # D-Lab LLMs for Exploratory Research Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&urlpath=rstudio%2F)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/R-LLMs-Exploratory-Research/HEAD?urlpath=rstudio)
+[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FLLMs-Exploratory-Research&urlpath=rstudio%2F)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/LLMs-Exploratory-Research/HEAD?urlpath=rstudio)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Welcome to the LLMs for Exploratory Research workshop.
 
 In a fast evolving artificial intelligence landscape, LLMs such as GPT have become a common buzzword. In the research community, their advantages and pitfalls are hotly debated. In this workshop, we will explore different chatbots powered by LLMs, beyond just ChatGPT. Our main goal will be to understand how LLMs can be used by researchers to conduct early-stage (or exploratory) research. Throughout the workshop, we will discuss best practices for prompt engineering and heuristics to evaluate the suitability of an LLM's output for our research purposes. Though the workshop primarily focuses on early-stage research, we will briefly discuss the use cases of LLMs in later stages of research, such as data analysis and writing.
 
-This repository contains the materials for D-Lab LLMs for Exploratory Research in R workshop. 
+This repository contains the materials for D-Lab LLMs for Exploratory Research workshop. 
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ We will be using the following LLM-chatbots during the workshop. You can create 
 3. [Phind](https://www.perplexity.ai/)
 4. [Claude.ai](https://claude.ai/new)
 
-You can view the workshop materials on GitHub and download the paper from the repository. You can also view the Markdown file on [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FR-LLMs-Exploratory-Research&urlpath=rstudio%2F).
+You can view the workshop materials on GitHub and download the paper from the repository. You can also view the Markdown file on [![DataHub](https://img.shields.io/badge/launch-datahub-blue)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FLLMs-Exploratory-Research&urlpath=rstudio%2F).
 
 The DataHub downloads this repository, along with any necessary packages, and
 allows you to run the materials in an RStudio instance on UC Berkeley's servers.
@@ -56,7 +56,7 @@ you click on the `LLMs-Exploratory-Research` folder.
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/R-LLMs-Exploratory-Research/HEAD?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/LLMs-Exploratory-Research/HEAD?urlpath=rstudio)
 
 By using this button, however, you cannot save your work.
 
