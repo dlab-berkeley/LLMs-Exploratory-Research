@@ -14,6 +14,8 @@ Our goals for today's workshop are:
 
 3.  Compare and contrast output from different LLMs.
 
+4.  Contribute to a [collaborative guide](https://docs.google.com/document/d/1MzL9wRjaSH-TXXqwJLgf8318-uB31tH4C1OaiJnT9Lc/edit?tab=t.0) on prompt engineering.
+
 Throughout this workshop series, we will use the following icons:
 
 🔔 **Question**: A quick question to help you understand what's going on.
@@ -64,6 +66,8 @@ In today's workshop we will explore the uses of these LLMs following the structu
 
 -   We will end with using an LLM to come up with a structure for our research paper.
 
+Throughout the workshop, as you write your own queries and experiment with different LLMs, make sure to include suggestions and tips in this [guide](https://docs.google.com/document/d/1MzL9wRjaSH-TXXqwJLgf8318-uB31tH4C1OaiJnT9Lc/edit?tab=t.0) for how to write the most effective queries for an LLM to give the best output.
+
 ## Stage 1: Framing a Research Question
 
 There are many different ways to choose a research question - you may start with a dataset, an empirical observation about the world, or two variables that seem to be associated with each other. Being able to articulate a precise research question, regardless of where you start, is important for a strong introduction to any paper.
@@ -72,21 +76,29 @@ There are many different ways to choose a research question - you may start with
 
 Before developing a research question, let's get a summary of the paper we will be referencing throughout today's workshop. The paper by Gerber, Green, and Larimer (2008) is one of the most cited papers in the political science field. It asks whether social norms can increase voter turnout during elections and is based on a large-scale experiment conducted in the United States.
 
+### 🎬 **Demo 1a:** Summarizing a research paper
+
+I will upload the paper by Gerber, Green, and Larimer (2008) to Perplexity Pro and ask the LLM to summarize the paper for me. To ensure the most useful output, one possible model to follow is asking the LLM for the paper's: research question, argument, hypotheses, methods, and results.
+
 ### 🥊 Challenge 1a: Summarizing Papers
 
-Upload the paper by Gerber, Green, and Larimer (2008) to both ChatGPT and Perplexity Pro and compare the outputs from the two LLMs when you ask them to summarize the paper for you. Which output has more detail and specificity? Which LLM gave you a faster output? If you wanted more specificity from either LLM, what could you change about your prompt?
+Upload a paper from your field to both ChatGPT and Perplexity Pro and compare the outputs from the two LLMs when you ask them to summarize the paper for you. Which output has more detail and specificity? Which LLM gave you a faster output? If you wanted more specificity from either LLM, what could you change about your prompt? If you do not have a paper from your field, you can use the paper by Gerber, Green, and Larimer (2008).
 
-💡 **Tip**: The way you write your queries can determine the output from the LLM. Here are some resources from companies that have designed [LLMs](https://platform.openai.com/docs/guides/prompt-engineering) and LLM-based [chatbots](https://www.perplexity.ai/hub/faq/prompting-tips-and-examples-on-perplexity) on [prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide), which has become a whole [industry](https://www.promptingguide.ai/) in itself. In the context of summarizing a paper, how do you get these models to give you the most relevant information? One possible model to follow is asking it for the paper's: research question, argument, hypotheses, methods, and results.
+💡 **Tip**: The way you write your queries can determine the output from the LLM. Here are some resources from companies that have designed [LLMs](https://platform.openai.com/docs/guides/prompt-engineering) and LLM-based [chatbots](https://www.perplexity.ai/hub/faq/prompting-tips-and-examples-on-perplexity) on [prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide), which has become a whole [industry](https://www.promptingguide.ai/) in itself. In the context of summarizing a paper from your field, how do you get these models to give you the most relevant information?
 
-Now that you have a summary of the paper and know its main argument and findings, let's try to develop a research question. Here are some [best practices](https://libraries.indiana.edu/sites/default/files/Develop_a_Research_Question.pdf) for designing effective, precise, and complex research questions by Indiana University. As the guide highlights, one of the ways of developing a research question can be building upon existing reference sources. In your research process, this would involve reading multiple papers and finding what's called a "gap in the literature" that your research would fill. On a smaller scale, let's look at how you might use an LLM to find such a gap using the Gerber, Green, and Larimer paper!
+Now that you have a summary of the paper and know its main argument and findings, let's try to develop a research question. Here are some [best practices](https://libraries.indiana.edu/sites/default/files/Develop_a_Research_Question.pdf) for designing effective, precise, and complex research questions by Indiana University. As the guide highlights, one of the ways of developing a research question can be building upon existing reference sources. In your research process, this would involve reading multiple papers and finding what's called a "gap in the literature" that your research would fill.
+
+### 🎬 **Demo 1b:** Finding a gap/limitation from a paper
+
+On a smaller scale, let's first look at how you might use an LLM to find such a gap using the Gerber, Green, and Larimer paper!
 
 ### 🥊 Challenge 1b: Designing a Research Question with LLMs
 
-Using an LLM (you can choose between ChatGPT, Perplexity Pro, Claude.ai, and Phind), come up with a research question that addresses any gaps in the literature or limitations based on the findings in the Gerber, Green, and Larimer (2008) paper. For this, you will have to upload the paper onto one of the platforms before you enter your query.
+Using an LLM (you can choose between ChatGPT, Perplexity Pro, Claude.ai, and Phind), come up with a research question that addresses any gaps in the literature or limitations based on the findings in the paper that you chose for the previous challege.
 
 💡 **Tip**: When doing your research, you could summarize several individual papers like this by uploading them. You could then create a spreadsheet of all the papers you’ve read and then upload the spreadsheet to an LLM to give you a summary of the field, identify the gaps in the literature, and find a suitable research question!
 
-### 🎬 **Demo**: Running a search on Consensus
+### 🎬 **Demo 2**: Running a search on Consensus
 
 There are some LLMs, such as [Consensus](https://consensus.app/?home=true), that draw from research libraries and can be a starting point for finding papers and summarizing existing literature on your topic. Consensus combines its own LLM, that draws from academic papers hosted on Semantic Scholar, and GPT-4 that helps summarize findings to present links to papers on a topic. Let's see what happens when I run a query on a topic I am familiar with!
 
@@ -106,9 +118,13 @@ Coming up with a research design that effectively tests hypotheses related to yo
 
 To get a head start on what the research design could look like, we can take the help of LLMs. This query can be as simple as "what does a potential research design for the following question look like" and can become more specific based on your domain knowledge.
 
+### 🎬 **Demo 3:** Drawing a research design
+
+Let's ask Perplexity Pro to give us a research design for the following question: “How do social pressure effects vary based on the source of the intervention (e.g., government agencies, non-partisan organizations, political parties)?” This was one of the questions it suggested for the prompt asking for a potential research question drawn from the Gerber, Green, and Larimer (2008) paper.
+
 ### 🥊 Challenge 2: Research Design Preparation
 
-Using an LLM of your choice, come up with a potential research design for the following research question: “How do social pressure effects vary based on the source of the intervention (e.g., government agencies, non-partisan organizations, political parties)?” Here are some questions to guide your assessment of the LLM's output:
+Using an LLM of your choice, come up with a potential research design for one of the research questions from Challenge 1b. Here are some questions to guide your assessment of the LLM's output:
 
 -   What level of detail does it provide? For instance, does it tell you the sample size of your study? Does it suggest you should pre-register the study?
 
@@ -122,9 +138,13 @@ LLMs (so far) will not be able to replace your expertise as a researcher, so mak
 
 Before looking for data and conducting analysis for your research question, you might want a structure for your research paper to ensure it will flow correctly. Perhaps, you have a paper in your field of study that you particularly like. You can ask an LLM to analyze the structure of that paper and use it for your own.
 
+### 🎬 Demo 4: Analyzing the structure of a paper 
+
+Let's head over to Perplexity Pro to ask the LLM for an analysis of the structure of the Gerber, Green, and Larimer (2008) paper. I will ask the LLM to cross-reference the structure of this paper with publication requirements at top political science journals as well.
+
 ### 🥊 Challenge 3: Asking an LLM to Analyze Paper Structure
 
-Using the same paper you uploaded previously, ask an LLM of your choice to analyze the structure of that paper. Make sure to specify the level of detail you want in the output. For instance, do you want the LLM to give you broad section headers? Do you want the output to include how the structure could be adapted to your research question? You may need to use multiple queries to address this challenge!
+Using the same paper you uploaded previously from your field, ask an LLM of your choice to analyze the structure of that paper. Make sure to specify the level of detail you want in the output. For instance, do you want the LLM to give you broad section headers? Do you want the output to include how the structure could be adapted to your research question? You may need to use multiple queries to address this challenge!
 
 💡 **Tip**: Make sure to think about how you would change the structure of the paper to suit your needs, for instance, a journal's requirements for a submission.
 
