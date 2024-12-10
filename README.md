@@ -39,7 +39,7 @@ We will be using the following LLM-chatbots during the workshop. You can create 
 1. [ChatGPT](https://chatgpt.com/)
 2. [Perplexity](https://www.perplexity.ai/) 
    - You can create a free Perplexity Pro account using your Berkeley email address.
-3. [Phind](https://www.perplexity.ai/)
+3. [Phind](https://www.phind.com/)
 4. [Claude.ai](https://claude.ai/new)
 
 You can view the workshop materials on GitHub and download the paper from the repository.
