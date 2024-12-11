@@ -4,7 +4,7 @@
 
 Welcome to the LLMs for Exploratory Research workshop.
 
-In a fast evolving artificial intelligence landscape, LLMs such as GPT have become a common buzzword. In the research community, their advantages and pitfalls are hotly debated. In this workshop, we will explore different chatbots powered by LLMs, beyond just ChatGPT. Our main goal will be to understand how LLMs can be used by researchers to conduct early-stage (or exploratory) research. Throughout the workshop, we will discuss best practices for prompt engineering and heuristics to evaluate the suitability of an LLM's output for our research purposes. Though the workshop primarily focuses on early-stage research, we will briefly discuss the use cases of LLMs in later stages of research, such as data analysis and writing.
+In a fast evolving artificial intelligence landscape, LLMs such as GPT have become ubiquitous. In the research community, their advantages and pitfalls are hotly debated. In this workshop, we will explore different chatbots powered by LLMs. Our main goal will be to understand how LLMs can be used by researchers to conduct early-stage (or exploratory) research. Throughout the workshop, we will discuss best practices for prompt engineering and heuristics to evaluate the suitability of an LLM's output for our research purposes. Though the workshop primarily focuses on early-stage research, we will briefly discuss the use cases of LLMs in later stages of research, such as data analysis and writing.
 
 This repository contains the materials for D-Lab LLMs for Exploratory Research workshop. 
 
