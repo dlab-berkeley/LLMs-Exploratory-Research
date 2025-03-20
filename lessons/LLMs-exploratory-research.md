@@ -36,7 +36,7 @@ We are probably all familiar with ChatGPT which uses an LLM called GPT, either h
 
 💡 **Note:** There is a difference between an LLM and an LLM-powered chatbot [(Source: Zapier)](https://zapier.com/blog/chatgpt-vs-gpt/).
 
-![](images/clipboard-2620794215.png){style="display: block; margin: 1em auto" width="300"}
+![](images/clipboard-2620794215.png)
 
 There are several LLMs beyond GPT that can be useful for research.
 
