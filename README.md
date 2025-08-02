@@ -2,21 +2,16 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Welcome to the LLMs for Exploratory Research workshop.
-
-In a fast evolving artificial intelligence landscape, LLMs such as GPT have become ubiquitous. In the research community, their advantages and pitfalls are hotly debated. In this workshop, we will explore different chatbots powered by LLMs. Our main goal will be to understand how LLMs can be used by researchers to conduct early-stage (or exploratory) research. Throughout the workshop, we will discuss best practices for prompt engineering and heuristics to evaluate the suitability of an LLM's output for our research purposes. Though the workshop primarily focuses on early-stage research, we will briefly discuss the use cases of LLMs in later stages of research, such as data analysis and writing.
-
-This repository contains the materials for D-Lab LLMs for Exploratory Research workshop. 
+This repository contains the materials for D-Lab's LLMs for Exploratory Research workshop. 
 
 ### Prerequisites
 
 No prior experience in using LLMs is necessary for this workshop.
 
-Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
 
 ## Workshop Goals
-
-In this workshop, we assess the different uses of LLMs in exploratory research and discusses ways to evaluate strengths and weaknesses of LLMs in various phases of exploratory research. First, we’ll cover some of the different types of LLMs that can be useful for research. Then, we’ll explore the use cases of LLMs specifically for exploratory research. As we go along, we will discuss the strengths and limitations of using LLMs for research.  
+In a fast evolving artificial intelligence landscape, LLMs such as GPT have become ubiquitous. In the research community, their advantages and pitfalls are hotly debated. In this workshop, we assess the different uses of LLMs in exploratory research and discusses ways to evaluate strengths and weaknesses of LLMs in various phases of exploratory research. First, we’ll cover some of the different types of LLMs that can be useful for research. Then, we’ll explore the use cases of LLMs specifically for exploratory research. As we go along, we will discuss the strengths and limitations of using LLMs for research.  
 
 
 ## Learning Objectives
