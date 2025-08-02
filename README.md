@@ -4,7 +4,7 @@
 
 This repository contains the materials for D-Lab's LLMs for Exploratory Research workshop. 
 
-### Prerequisites
+## Prerequisites
 
 No prior experience in using LLMs is necessary for this workshop.
 
