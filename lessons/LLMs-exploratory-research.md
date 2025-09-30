@@ -14,8 +14,6 @@ Our goals for today's workshop are:
 
 3.  Compare and contrast output from different LLMs.
 
-4.  Contribute to a [collaborative guide](https://docs.google.com/document/d/1MzL9wRjaSH-TXXqwJLgf8318-uB31tH4C1OaiJnT9Lc/edit?tab=t.0) on prompt engineering.
-
 Throughout this workshop series, we will use the following icons:
 
 🔔 **Question**: A quick question to help you understand what's going on.
@@ -66,7 +64,7 @@ In today's workshop we will explore the uses of these LLMs following the structu
 
 -   We will end with using an LLM to come up with a structure for our research paper.
 
-Throughout the workshop, as you write your own queries and experiment with different LLMs, make sure to include suggestions and tips in this [guide](https://docs.google.com/document/d/1MzL9wRjaSH-TXXqwJLgf8318-uB31tH4C1OaiJnT9Lc/edit?tab=t.0) for how to write the most effective queries for an LLM to give the best output.
+Throughout the workshop, as you write your own queries and experiment with different LLMs, make sure to share your suggestions and tips in the chat for how to write the most effective queries for an LLM to give the best output.
 
 ## Stage 1: Framing a Research Question
 
