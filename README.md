@@ -23,7 +23,7 @@ After this workshop, you will be able to:
 
 This workshop does not cover the following:
 
-- How to use LLMs for coding. These are covered in [Copilot Fundamentals](https://github.com/dlab-berkeley/Copilot-Fundamentals).
+- How to use LLMs for coding.
 - Introduction to GPT models. These are covered in [Python GPT Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals?search=1).
 
 
@@ -32,9 +32,8 @@ This workshop does not cover the following:
 We will be using the following LLM-chatbots during the workshop. You can create accounts for each by following the links: 
 
 1. [ChatGPT](https://chatgpt.com/)
-2. [Perplexity](https://www.perplexity.ai/) 
-   - You can create a free Perplexity Pro account using your Berkeley email address.
-3. [Phind](https://www.phind.com/)
+2. [Perplexity](https://www.perplexity.ai/)
+3. [Google Gemini](https://gemini.google.com/)
 4. [Claude.ai](https://claude.ai/new)
 
 You can view the workshop materials on GitHub and download the paper from the repository.
@@ -49,9 +48,10 @@ Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. Y
 
 Here are other LLM/GPT workshops offered by the D-Lab:
 
-* [Copilot Fundamentals](https://github.com/dlab-berkeley/Copilot-Fundamentals)
 * [Python GPT Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals?search=1)
 
 # Contributors
 
 * [Kamya Yadav](https://dlab.berkeley.edu/people/kamya-yadav)
+* Tom van Nuenen
+* Pratik Sachdeva
