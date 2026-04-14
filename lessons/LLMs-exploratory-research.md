@@ -48,8 +48,6 @@ We will explore the interface of the following LLM-powered AI chatbots in today'
 
 -   ChatGPT (uses GPT)
 
--   Perplexity Pro
-
 -   Claude.ai
 
 -   Google Gemini
@@ -88,11 +86,11 @@ Before developing a research question, let's get a summary of the paper we will 
 
 ### 🎬 **Demo 1a:** Summarizing a research paper
 
-I will upload the paper by Gerber, Green, and Larimer (2008) to Perplexity Pro and ask the LLM to summarize the paper for me. To ensure the most useful output, one possible model to follow is asking the LLM for the paper's: research question, argument, hypotheses, methods, and results.
+I will upload the paper by Gerber, Green, and Larimer (2008) to an LLM and ask it to summarize the paper for me. To ensure the most useful output, one possible model to follow is asking the LLM for the paper's: research question, argument, hypotheses, methods, and results.
 
 ### 🥊 Challenge 1a: Summarizing Papers
 
-Upload a paper from your field to both ChatGPT and Perplexity Pro and compare the outputs from the two LLMs when you ask them to summarize the paper for you. Which output has more detail and specificity? Which LLM gave you a faster output? If you wanted more specificity from either LLM, what could you change about your prompt? If you do not have a paper from your field, you can use the paper by Gerber, Green, and Larimer (2008).
+Upload a paper from your field to both ChatGPT or another LLM and compare the outputs from the two LLMs when you ask them to summarize the paper for you. Which output has more detail and specificity? Which LLM gave you a faster output? If you wanted more specificity from either LLM, what could you change about your prompt? If you do not have a paper from your field, you can use the paper by Gerber, Green, and Larimer (2008).
 
 💡 **Tip**: The way you write your queries can determine the output from the LLM. Here are some resources from companies that have designed [LLMs](https://platform.openai.com/docs/guides/prompt-engineering) and LLM-based [chatbots](https://www.perplexity.ai/hub/faq/prompting-tips-and-examples-on-perplexity) on [prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide), which has become a whole [industry](https://www.promptingguide.ai/) in itself. In the context of summarizing a paper from your field, how do you get these models to give you the most relevant information?
 
@@ -130,7 +128,7 @@ To get a head start on what the research design could look like, we can take the
 
 ### 🎬 **Demo 3:** Drawing a research design
 
-Let's ask Perplexity Pro to give us a research design for the following question: “How do social pressure effects vary based on the source of the intervention (e.g., government agencies, non-partisan organizations, political parties)?” This was one of the questions it suggested for the prompt asking for a potential research question drawn from the Gerber, Green, and Larimer (2008) paper.
+Let's ask an LLM to give us a research design for the following question: “How do social pressure effects vary based on the source of the intervention (e.g., government agencies, non-partisan organizations, political parties)?” This was one of the questions it suggested for the prompt asking for a potential research question drawn from the Gerber, Green, and Larimer (2008) paper.
 
 ### 🥊 Challenge 2: Research Design Preparation
 
@@ -150,7 +148,7 @@ Before looking for data and conducting analysis for your research question, you 
 
 ### 🎬 Demo 4: Analyzing the structure of a paper 
 
-Let's head over to Perplexity Pro to ask the LLM for an analysis of the structure of the Gerber, Green, and Larimer (2008) paper. I will ask the LLM to cross-reference the structure of this paper with publication requirements at top political science journals as well.
+Let's head over to an LLM to ask it for an analysis of the structure of the Gerber, Green, and Larimer (2008) paper. I will ask the LLM to cross-reference the structure of this paper with publication requirements at top political science journals as well.
 
 ### 🥊 Challenge 3: Asking an LLM to Analyze Paper Structure
 
